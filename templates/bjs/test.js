@@ -11,22 +11,22 @@ const coreData = [
 const mockData = {
     'coreData': [
         {
-            'title': 'Clients',
-            'tValue': '4 589',
+            'tTitle': 'Clients',
+            'tValue': '4 789',
             // 'boxchart': '5,6,7,2,0,4,2,4,8,2,3,3,2'
         },
         {
-            'title': 'Transactions',
+            'tTitle': 'Transactions',
             'tValue': '789',
             // 'boxchart': '1,2,6,4,0,8,2,4,5,3,1,7,5'
         },
         {
-            'title': 'Income',
+            'tTitle': 'Income',
             'tValue': '$1 999,99'
         },
         {
-            'title': 'Account',
-            'tValue': '$19 999,99'
+            'tTitle': 'Account',
+            'tValue': '$29 999,99'
         }
     ]
 }
@@ -43,21 +43,24 @@ let content = new Vue({
 $.ajax({
     type: "POST",
     // url: "server/test.php",
-    url: "getCoreData",
+    url: "../getCoreData",
     data: {},
     async: false,
     success: function(res){
         console.log(res);
+        console.log(mockData);
         // resData = JSON.parse(res);
-        console.log(resData);
+        // console.log(resData);
         // content.coreData[3]['value'] = resData[3]['tValue'];
         // content.coreData[3]['tValue'] = resData['resB'];
-        content.coreData=mockData;
+        content.data=mockData;
         // content.coreData=resData;
     }
 });
 
 // console.log(content.core_data[0].title);
+
+
 
 
 //echart.js tree

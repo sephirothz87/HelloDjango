@@ -14,3 +14,6 @@ def newIndex(request):
     # context['hello'] = 'Hello World!'
     # return render(request, 'hello.html', context)
     return render(request, 'index.html')
+
+def getCoreData(request):
+    return HttpResponse("coreData")

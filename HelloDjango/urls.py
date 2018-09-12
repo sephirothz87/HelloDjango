@@ -24,5 +24,6 @@ urlpatterns = [
     # path('admin/hello', view.hello)
     url(r'^$', view.home),
     url(r'^route1$', view.route1),
-    url(r'^newIndex$', view.newIndex)
+    url(r'^newIndex$', view.newIndex),
+    url(r'^getCoreData$', view.getCoreData),
 ]
