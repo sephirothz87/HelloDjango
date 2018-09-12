@@ -4,7 +4,7 @@ from django.shortcuts import render
 def home(request):
     # return HttpResponse("Hello Django ! ")
     # return render(request, 'index.html')
-    return render(request, '')
+    return HttpResponse('Hello django')
 
 def route1(request):
     return HttpResponse("Hello route1 ! ")

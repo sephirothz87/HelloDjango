@@ -1,0 +1,158 @@
+{
+ "name": "AbstractWorkingTask.downloadObbligato",
+ "value":"AbstractWorkingTask.downloadObbligato(String, String, int, boolean)  (com.tencent.karaoke.common.network.singload.obbligato)",
+ "children": [
+     {
+        "name":"AbstractWorkingTask.onReply",
+        "value":"Anonymous in mJceListener in AbstractWorkingTask.onReply(Request, Response)(2 usages)  (com.tencent.karaoke.common.network.singload.obbligato)",
+        "children":[
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                "children":[
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                        "children":[
+                            {
+                                "name":"详情页-播放按钮",
+                                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                            },
+                            {
+                                "name":"全局播放-播放按钮",
+                                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                        "children":[
+                            {
+                                "name":"BusinessBase.onReply",
+                                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    }
+                ]
+            }
+        ]
+     },
+     {
+        "name":"AbstractWorkingTask.onReply",
+        "value":"Anonymous in mJceListener in AbstractWorkingTask.onReply(Request, Response)(2 usages)  (com.tencent.karaoke.common.network.singload.obbligato)",
+        "children":[
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                "children":[
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                        "children":[
+                            {
+                                "name":"BusinessBase.onReply",
+                                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                            },
+                            {
+                                "name":"BusinessBase.onReply",
+                                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                        "children":[
+                            {
+                                "name":"BusinessBase.onReply",
+                                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    }
+                ]
+            }
+        ]
+     },{
+        "name":"BusinessBase.onReply",
+        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+     },{
+        "name":"BusinessBase.onReply",
+        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+        "children":[
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                "children":[
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    },
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    }
+                ]
+            },
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)",
+                "children":[
+                    {
+                        "name":"BusinessBase.onReply",
+                        "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+                    }
+                ]
+            },
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+            },
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+            },
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+            },
+            {
+                "name":"BusinessBase.onReply",
+                "value":"BusinessBase.onReply(Request, Response)  (com.tencent.karaoke.base.karabusiness)"
+            }
+        ]
+     }
+ ]
+}

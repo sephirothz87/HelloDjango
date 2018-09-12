@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<!-- start: Meta -->
+	<meta charset="utf-8" />
+	<title>SimpliQ - Flat & Responsive Bootstrap Admin Template</title>
+		
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+    
+<body>
+
+    <div>
+        Hello,CodeIn
+    </div>
+    <div>
+        <textarea id='ta1'><script>alert('1');</script></textarea>
+        <textarea id='ta2'></script></textarea>
+        <text id="txt1"><script>alert('2');</script></text>
+        <text id="txt2"></text>
+        <text id="txt3"></text>
+    </div>
+
+</body>
+
+<script src="js/jquery-1.10.2.min.js"></script>
+<script>
+    console.log('js in page');
+			// $('#ta2').val("<script>alert('3');<\/script>");
+			$('#txt2').html("<script>alert('4');<\/script>");
+			$('#txt2').text("<script>alert('5');<\/script>");
+</script>
+</html>

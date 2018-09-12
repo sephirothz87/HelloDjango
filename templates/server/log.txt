@@ -1,0 +1,4745 @@
+[2018-08-11 14:53:41]getCoreDataStart
+[2018-08-11 14:53:41]Connected successfully
+[2018-08-11 14:53:41]sql excute
+[2018-08-11 14:53:41]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:53:41]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:53:41]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:53:42]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:53:42]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:53:42]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:53:42]getCoreDataEnd
+[2018-08-11 14:55:42]getCoreDataStart
+[2018-08-11 14:55:42]Connected successfully
+[2018-08-11 14:55:42]sql excute
+[2018-08-11 14:55:42]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:55:42]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:55:42]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:55:42]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:55:42]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:55:42]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:55:42]getCoreDataEnd
+[2018-08-11 14:55:44]getCoreDataStart
+[2018-08-11 14:55:44]Connected successfully
+[2018-08-11 14:55:44]sql excute
+[2018-08-11 14:55:44]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:55:44]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:55:44]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:55:44]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:55:44]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:55:44]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:55:44]getCoreDataEnd
+[2018-08-11 14:55:45]getCoreDataStart
+[2018-08-11 14:55:45]Connected successfully
+[2018-08-11 14:55:45]sql excute
+[2018-08-11 14:55:45]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:55:45]getCoreDataEnd
+[2018-08-11 14:55:45]getCoreDataStart
+[2018-08-11 14:55:45]Connected successfully
+[2018-08-11 14:55:45]sql excute
+[2018-08-11 14:55:45]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:55:45]getCoreDataEnd
+[2018-08-11 14:55:45]getCoreDataStart
+[2018-08-11 14:55:45]Connected successfully
+[2018-08-11 14:55:45]sql excute
+[2018-08-11 14:55:45]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:55:45]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:55:45]getCoreDataEnd
+[2018-08-11 14:55:46]getCoreDataStart
+[2018-08-11 14:55:46]Connected successfully
+[2018-08-11 14:55:46]sql excute
+[2018-08-11 14:55:46]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:55:46]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:55:46]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:55:46]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:55:46]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:55:46]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:55:46]getCoreDataEnd
+[2018-08-11 14:56:21]getCoreDataStart
+[2018-08-11 14:56:21]Connected successfully
+[2018-08-11 14:56:21]sql excute
+[2018-08-11 14:56:21]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:56:21]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:56:21]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:56:21]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:56:21]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:56:21]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:56:21]getCoreDataEnd
+[2018-08-11 14:56:52]getCoreDataStart
+[2018-08-11 14:56:52]Connected successfully
+[2018-08-11 14:56:52]sql excute
+[2018-08-11 14:56:52]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:56:52]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:56:52]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:56:52]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:56:52]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:56:52]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:56:52]getCoreDataEnd
+[2018-08-11 14:57:05]getCoreDataStart
+[2018-08-11 14:57:05]Connected successfully
+[2018-08-11 14:57:05]sql excute
+[2018-08-11 14:57:05]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:57:05]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:57:05]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:57:05]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:57:05]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:57:05]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:57:05]getCoreDataEnd
+[2018-08-11 14:57:48]getCoreDataStart
+[2018-08-11 14:57:48]Connected successfully
+[2018-08-11 14:57:48]sql excute
+[2018-08-11 14:57:48]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:57:48]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:57:48]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:57:48]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:57:48]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:57:48]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:57:48]getCoreDataEnd
+[2018-08-11 14:58:25]getCoreDataStart
+[2018-08-11 14:58:25]Connected successfully
+[2018-08-11 14:58:25]sql excute
+[2018-08-11 14:58:25]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 14:58:25]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 14:58:25]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 14:58:25]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 14:58:25]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 14:58:25]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 14:58:25]getCoreDataEnd
+[2018-08-11 15:13:21]getCoreDataStart
+[2018-08-11 15:13:21]Connected successfully
+[2018-08-11 15:13:21]sql excute
+[2018-08-11 15:13:21]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:13:21]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:13:21]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:13:21]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:13:21]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:13:21]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:13:21]getCoreDataEnd
+[2018-08-11 15:13:23]getCoreDataStart
+[2018-08-11 15:13:23]Connected successfully
+[2018-08-11 15:13:23]sql excute
+[2018-08-11 15:13:23]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:13:23]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:13:23]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:13:23]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:13:23]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:13:23]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:13:23]getCoreDataEnd
+[2018-08-11 15:19:39]getCoreDataStart
+[2018-08-11 15:19:39]Connected successfully
+[2018-08-11 15:19:39]sql excute
+[2018-08-11 15:19:39]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:19:39]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:19:39]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:19:39]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:19:39]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:19:39]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:19:39]getCoreDataEnd
+[2018-08-11 15:19:42]getCoreDataStart
+[2018-08-11 15:19:42]Connected successfully
+[2018-08-11 15:19:42]sql excute
+[2018-08-11 15:19:42]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:19:42]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:19:42]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:19:42]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:19:42]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:19:42]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:19:42]getCoreDataEnd
+[2018-08-11 15:20:43]getCoreDataStart
+[2018-08-11 15:20:43]Connected successfully
+[2018-08-11 15:20:43]sql excute
+[2018-08-11 15:20:43]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:20:43]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:20:43]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:20:43]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:20:43]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:20:43]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:20:43]getCoreDataEnd
+[2018-08-11 15:37:17]getCoreDataStart
+[2018-08-11 15:37:17]Connected successfully
+[2018-08-11 15:37:17]sql excute
+[2018-08-11 15:37:17]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:37:17]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:37:17]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:37:17]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:37:17]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:37:17]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:37:17]getCoreDataEnd
+[2018-08-11 15:37:35]getCoreDataStart
+[2018-08-11 15:37:35]Connected successfully
+[2018-08-11 15:37:35]sql excute
+[2018-08-11 15:37:35]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:37:35]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:37:35]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:37:35]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:37:35]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:37:35]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:37:35]getCoreDataEnd
+[2018-08-11 15:37:50]getCoreDataStart
+[2018-08-11 15:37:50]Connected successfully
+[2018-08-11 15:37:50]sql excute
+[2018-08-11 15:37:50]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:37:50]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:37:50]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:37:50]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:37:50]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:37:50]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:37:50]getCoreDataEnd
+[2018-08-11 15:38:42]getCoreDataStart
+[2018-08-11 15:38:42]Connected successfully
+[2018-08-11 15:38:42]sql excute
+[2018-08-11 15:38:42]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:38:42]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:38:42]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:38:42]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:38:42]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:38:42]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:38:42]getCoreDataEnd
+[2018-08-11 15:43:08]getCoreDataStart
+[2018-08-11 15:43:08]Connected successfully
+[2018-08-11 15:43:08]sql excute
+[2018-08-11 15:43:08]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:43:08]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:43:08]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:43:08]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:43:08]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:43:08]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:43:08]getCoreDataEnd
+[2018-08-11 15:44:02]getCoreDataStart
+[2018-08-11 15:44:02]Connected successfully
+[2018-08-11 15:44:02]sql excute
+[2018-08-11 15:44:02]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:44:02]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:44:02]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:44:02]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:44:02]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:44:02]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:44:02]getCoreDataEnd
+[2018-08-11 15:46:19]getCoreDataStart
+[2018-08-11 15:46:19]Connected successfully
+[2018-08-11 15:46:19]sql excute
+[2018-08-11 15:46:19]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:46:19]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:46:19]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:46:19]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:46:19]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:46:19]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:46:19]getCoreDataEnd
+[2018-08-11 15:48:25]getCoreDataStart
+[2018-08-11 15:48:25]Connected successfully
+[2018-08-11 15:48:25]sql excute
+[2018-08-11 15:48:25]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:48:25]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:48:25]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:48:25]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:48:25]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:48:25]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:48:25]getCoreDataEnd
+[2018-08-11 15:48:40]getCoreDataStart
+[2018-08-11 15:48:40]Connected successfully
+[2018-08-11 15:48:40]sql excute
+[2018-08-11 15:48:40]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:48:40]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:48:40]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:48:40]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:48:40]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:48:40]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:48:40]getCoreDataEnd
+[2018-08-11 15:50:46]getCoreDataStart
+[2018-08-11 15:50:46]Connected successfully
+[2018-08-11 15:50:46]sql excute
+[2018-08-11 15:50:46]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 15:50:46]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 15:50:46]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 15:50:46]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 15:50:46]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 15:50:46]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 15:50:46]getCoreDataEnd
+[2018-08-11 17:08:15]getCoreDataStart
+[2018-08-11 17:08:15]Connected successfully
+[2018-08-11 17:08:15]sql excute
+[2018-08-11 17:08:15]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:08:15]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:08:15]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:08:15]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:08:15]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:08:15]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:08:15]getCoreDataEnd
+[2018-08-11 17:10:48]getCoreDataStart
+[2018-08-11 17:10:49]Connected successfully
+[2018-08-11 17:10:49]sql excute
+[2018-08-11 17:10:49]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:10:49]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:10:49]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:10:49]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:10:49]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:10:49]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:10:49]getCoreDataEnd
+[2018-08-11 17:14:47]getCoreDataStart
+[2018-08-11 17:14:47]Connected successfully
+[2018-08-11 17:14:47]sql excute
+[2018-08-11 17:14:47]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:14:47]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:14:47]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:14:47]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:14:47]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:14:47]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:14:47]getCoreDataEnd
+[2018-08-11 17:17:01]getCoreDataStart
+[2018-08-11 17:17:01]Connected successfully
+[2018-08-11 17:17:01]sql excute
+[2018-08-11 17:17:01]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:17:01]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:17:01]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:17:01]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:17:01]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:17:01]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:17:01]getCoreDataEnd
+[2018-08-11 17:18:13]getCoreDataStart
+[2018-08-11 17:18:13]Connected successfully
+[2018-08-11 17:18:13]sql excute
+[2018-08-11 17:18:13]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:18:13]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:18:13]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:18:13]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:18:13]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:18:13]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:18:13]getCoreDataEnd
+[2018-08-11 17:18:15]getCoreDataStart
+[2018-08-11 17:18:15]Connected successfully
+[2018-08-11 17:18:15]sql excute
+[2018-08-11 17:18:15]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:18:15]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:18:15]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:18:15]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:18:15]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:18:15]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:18:15]getCoreDataEnd
+[2018-08-11 17:18:18]getCoreDataStart
+[2018-08-11 17:18:18]Connected successfully
+[2018-08-11 17:18:18]sql excute
+[2018-08-11 17:18:18]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:18:18]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:18:18]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:18:18]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:18:18]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:18:18]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:18:18]getCoreDataEnd
+[2018-08-11 17:18:45]getCoreDataStart
+[2018-08-11 17:18:45]Connected successfully
+[2018-08-11 17:18:45]sql excute
+[2018-08-11 17:18:45]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:18:45]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:18:45]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:18:45]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:18:45]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:18:45]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:18:45]getCoreDataEnd
+[2018-08-11 17:19:04]getCoreDataStart
+[2018-08-11 17:19:04]Connected successfully
+[2018-08-11 17:19:04]sql excute
+[2018-08-11 17:19:04]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:19:04]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:19:04]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:19:04]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:19:04]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:19:04]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:19:04]getCoreDataEnd
+[2018-08-11 17:19:22]getCoreDataStart
+[2018-08-11 17:19:22]Connected successfully
+[2018-08-11 17:19:22]sql excute
+[2018-08-11 17:19:22]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:19:22]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:19:22]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:19:22]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:19:22]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:19:22]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:19:22]getCoreDataEnd
+[2018-08-11 17:21:46]getCoreDataStart
+[2018-08-11 17:21:46]Connected successfully
+[2018-08-11 17:21:46]sql excute
+[2018-08-11 17:21:46]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:21:46]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:21:46]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:21:46]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:21:46]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:21:46]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:21:46]getCoreDataEnd
+[2018-08-11 17:22:06]getCoreDataStart
+[2018-08-11 17:22:06]Connected successfully
+[2018-08-11 17:22:06]sql excute
+[2018-08-11 17:22:06]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:22:06]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:22:06]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:22:06]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:22:06]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:22:06]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:22:06]getCoreDataEnd
+[2018-08-11 17:22:14]getCoreDataStart
+[2018-08-11 17:22:14]Connected successfully
+[2018-08-11 17:22:14]sql excute
+[2018-08-11 17:22:14]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:22:14]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:22:14]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:22:14]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:22:14]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:22:14]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:22:14]getCoreDataEnd
+[2018-08-11 17:24:21]getCoreDataStart
+[2018-08-11 17:24:21]Connected successfully
+[2018-08-11 17:24:21]sql excute
+[2018-08-11 17:24:21]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:24:21]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:24:21]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:24:21]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:24:21]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:24:21]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:24:21]getCoreDataEnd
+[2018-08-11 17:28:34]getCoreDataStart
+[2018-08-11 17:28:34]Connected successfully
+[2018-08-11 17:28:34]sql excute
+[2018-08-11 17:28:34]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:28:34]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:28:34]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:28:34]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:28:34]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:28:34]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:28:34]getCoreDataEnd
+[2018-08-11 17:30:23]getCoreDataStart
+[2018-08-11 17:30:23]Connected successfully
+[2018-08-11 17:30:23]sql excute
+[2018-08-11 17:30:23]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:30:23]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:30:23]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:30:23]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:30:23]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:30:23]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:30:23]getCoreDataEnd
+[2018-08-11 17:30:25]getCoreDataStart
+[2018-08-11 17:30:25]Connected successfully
+[2018-08-11 17:30:25]sql excute
+[2018-08-11 17:30:25]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:30:25]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:30:25]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:30:25]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:30:25]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:30:25]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:30:25]getCoreDataEnd
+[2018-08-11 17:30:33]getCoreDataStart
+[2018-08-11 17:30:33]Connected successfully
+[2018-08-11 17:30:33]sql excute
+[2018-08-11 17:30:33]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:30:33]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:30:33]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:30:33]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:30:33]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:30:33]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:30:33]getCoreDataEnd
+[2018-08-11 17:45:12]getCoreDataStart
+[2018-08-11 17:45:12]Connected successfully
+[2018-08-11 17:45:12]sql excute
+[2018-08-11 17:45:12]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:45:12]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:45:12]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:45:12]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:45:12]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:45:12]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:45:12]getCoreDataEnd
+[2018-08-11 17:45:32]getCoreDataStart
+[2018-08-11 17:45:32]Connected successfully
+[2018-08-11 17:45:32]sql excute
+[2018-08-11 17:45:32]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:45:32]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:45:32]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:45:32]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:45:32]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:45:33]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:45:33]getCoreDataEnd
+[2018-08-11 17:45:35]getCoreDataStart
+[2018-08-11 17:45:35]Connected successfully
+[2018-08-11 17:45:35]sql excute
+[2018-08-11 17:45:35]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:45:35]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:45:35]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:45:35]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:45:35]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:45:35]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:45:35]getCoreDataEnd
+[2018-08-11 17:46:12]getCoreDataStart
+[2018-08-11 17:46:12]Connected successfully
+[2018-08-11 17:46:12]sql excute
+[2018-08-11 17:46:12]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:46:12]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:46:12]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:46:12]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:46:12]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:46:12]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:46:12]getCoreDataEnd
+[2018-08-11 17:46:14]getCoreDataStart
+[2018-08-11 17:46:14]Connected successfully
+[2018-08-11 17:46:14]sql excute
+[2018-08-11 17:46:14]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:46:14]getCoreDataEnd
+[2018-08-11 17:46:14]getCoreDataStart
+[2018-08-11 17:46:14]Connected successfully
+[2018-08-11 17:46:14]sql excute
+[2018-08-11 17:46:14]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:46:14]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:46:14]getCoreDataEnd
+[2018-08-11 17:46:15]getCoreDataStart
+[2018-08-11 17:46:15]Connected successfully
+[2018-08-11 17:46:15]sql excute
+[2018-08-11 17:46:15]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:46:15]getCoreDataEnd
+[2018-08-11 17:46:15]getCoreDataStart
+[2018-08-11 17:46:15]Connected successfully
+[2018-08-11 17:46:15]sql excute
+[2018-08-11 17:46:15]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:46:15]getCoreDataEnd
+[2018-08-11 17:46:15]getCoreDataStart
+[2018-08-11 17:46:15]Connected successfully
+[2018-08-11 17:46:15]sql excute
+[2018-08-11 17:46:15]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:46:15]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:46:15]getCoreDataEnd
+[2018-08-11 17:46:22]getCoreDataStart
+[2018-08-11 17:46:22]Connected successfully
+[2018-08-11 17:46:22]sql excute
+[2018-08-11 17:46:22]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:46:22]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:46:22]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:46:22]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:46:22]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:46:22]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:46:22]getCoreDataEnd
+[2018-08-11 17:47:11]getCoreDataStart
+[2018-08-11 17:47:11]Connected successfully
+[2018-08-11 17:47:11]sql excute
+[2018-08-11 17:47:11]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:47:11]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:47:11]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:47:11]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:47:11]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:47:11]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:47:11]getCoreDataEnd
+[2018-08-11 17:47:15]getCoreDataStart
+[2018-08-11 17:47:15]Connected successfully
+[2018-08-11 17:47:15]sql excute
+[2018-08-11 17:47:15]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 17:47:15]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 17:47:15]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 17:47:15]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 17:47:15]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 17:47:15]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 17:47:15]getCoreDataEnd
+[2018-08-11 19:37:31]getCoreDataStart
+[2018-08-11 19:37:31]Connected successfully
+[2018-08-11 19:37:31]sql excute
+[2018-08-11 19:37:31]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-11 19:37:31]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-11 19:37:31]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-11 19:37:31]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-11 19:37:31]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-11 19:37:31]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-11 19:37:31]getCoreDataEnd
+[2018-08-19 21:15:40]getCoreDataStart
+[2018-08-19 21:15:40]Connected successfully
+[2018-08-19 21:15:40]sql excute
+[2018-08-19 21:15:40]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-19 21:15:40]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-19 21:15:40]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-19 21:15:40]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-19 21:15:40]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-19 21:15:40]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-19 21:15:40]getCoreDataEnd
+[2018-08-19 21:16:25]getCoreDataStart
+[2018-08-19 21:16:25]Connected successfully
+[2018-08-19 21:16:25]sql excute
+[2018-08-19 21:16:25]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-19 21:16:25]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-19 21:16:25]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-19 21:16:25]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-19 21:16:25]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-19 21:16:25]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-19 21:16:25]getCoreDataEnd
+[2018-08-20 15:27:53]getCoreDataStart
+[2018-08-20 15:27:53]Connected successfully
+[2018-08-20 15:27:53]sql excute
+[2018-08-20 15:27:53]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-20 15:27:53]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-20 15:27:53]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-20 15:27:53]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-20 15:27:53]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-20 15:27:53]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-20 15:27:53]getCoreDataEnd
+[2018-08-20 15:27:58]getCoreDataStart
+[2018-08-20 15:27:58]Connected successfully
+[2018-08-20 15:27:58]sql excute
+[2018-08-20 15:27:58]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-20 15:27:58]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-20 15:27:58]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-20 15:27:58]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-20 15:27:58]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-20 15:27:58]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-20 15:27:58]getCoreDataEnd
+[2018-08-20 15:28:24]getCoreDataStart
+[2018-08-20 15:28:24]Connected successfully
+[2018-08-20 15:28:24]sql excute
+[2018-08-20 15:28:24]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-20 15:28:24]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-20 15:28:24]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-20 15:28:24]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-20 15:28:24]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-20 15:28:24]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-20 15:28:24]getCoreDataEnd
+[2018-08-20 15:28:30]getCoreDataStart
+[2018-08-20 15:28:30]Connected successfully
+[2018-08-20 15:28:30]sql excute
+[2018-08-20 15:28:30]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-20 15:28:30]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-20 15:28:30]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-20 15:28:30]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-20 15:28:30]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-20 15:28:30]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-20 15:28:30]getCoreDataEnd
+[2018-08-20 20:32:35]getCoreDataStart
+[2018-08-20 20:32:35]Connected successfully
+[2018-08-20 20:32:35]sql excute
+[2018-08-20 20:32:35]
+        SELECT id,title,tValue
+        FROM testtable1
+        ;
+[2018-08-20 20:32:35]
+Array
+(
+    [id] => 1
+    [title] => Clients
+    [tValue] => 4 589
+)
+
+[2018-08-20 20:32:35]
+Array
+(
+    [id] => 2
+    [title] => Transactions
+    [tValue] => 789
+)
+
+[2018-08-20 20:32:35]
+Array
+(
+    [id] => 3
+    [title] => Income
+    [tValue] => $1 999,99
+)
+
+[2018-08-20 20:32:35]
+Array
+(
+    [id] => 4
+    [title] => Account
+    [tValue] => $29 999,99
+)
+
+[2018-08-20 20:32:35]
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Clients
+            [tValue] => 4 589
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Transactions
+            [tValue] => 789
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Income
+            [tValue] => $1 999,99
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [title] => Account
+            [tValue] => $29 999,99
+        )
+
+)
+
+[2018-08-20 20:32:35]getCoreDataEnd
