@@ -4,8 +4,6 @@ import locale
 import subprocess
 import sys
 
- 
-
 v1 = '37441'
 v2 = '37442'
 
@@ -37,7 +35,6 @@ while line:
 	print(line)
 	line = res.stdout.readline()
 	count+=1
-
 
 print('over')
 
