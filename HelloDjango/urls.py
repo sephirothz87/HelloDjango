@@ -26,4 +26,5 @@ urlpatterns = [
     url(r'^route1$', view.route1),
     url(r'^newIndex$', view.newIndex),
     url(r'^getCoreData$', view.getCoreData),
+    url(r'^createSubscriber$', view.createSubscriber),
 ]

@@ -1,0 +1,11 @@
+[v-cloak]{
+    display: none;
+}
+
+.btn-primary:focus{
+    background-color: #36a9e1;
+}
+
+.control-group.t20{
+    margin-top:20px;
+}

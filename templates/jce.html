@@ -13,6 +13,8 @@
 	<!-- start: Mobile Specific -->
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<!-- end: Mobile Specific -->
+
+	<script src="js/vue.js"></script>
 	
 	<!-- start: CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -20,6 +22,8 @@
 	<link href="css/style.min.css" rel="stylesheet" />
 	<link href="css/style-responsive.min.css" rel="stylesheet" />
 	<link href="css/retina.css" rel="stylesheet" />
+	<link href="bcss/common.css" rel="stylesheet" />
+	<link href="bcss/jce.css" rel="stylesheet" />
 	<!-- end: CSS -->
 	
 
@@ -377,50 +381,26 @@
 			<div id="content" class="span10">
 			
 						
-			<div id="coreData" class="box">
+			<div id="createSubscriber" class="box">
 				<div class="box-header">
-					<h2><i class="icon-font"></i><span class="break"></span>ajax</h2>
+					<h2><i class="icon-font"></i><span class="break"></span>添加订阅者</h2>
 				</div>
 				
 				<div class="box-content">
-					<div class="span3 smallstat box mobileHalf" ontablet="span6" ondesktop="span3">
-						<div class="boxchart-overlay blue">
-							<div class="boxchart">5,6,7,2,0,4,2,4,8,2,3,3,2</div>
-						</div>	
-						<span class="title">{{coreData[0].tTitle}}</span>
-						<span class="value">{{coreData[0].tValue}}</span>
-					</div>
-					
-					<div class="span3 smallstat box mobileHalf" ontablet="span6" ondesktop="span3">
-						<div class="boxchart-overlay red">
-							<div class="boxchart">1,2,6,4,0,8,2,4,5,3,1,7,5</div>
-						</div>	
-						<span class="title">{{coreData[1].tTitle}}</span>
-						<span class="value">{{coreData[1].tValue}}</span>
-					</div>
-					
-					<div class="span3 smallstat box mobileHalf noMargin" ontablet="span6" ondesktop="span3">
-						<i class="icon-download-alt green"></i>
-						<span class="title">{{coreData[2].tTitle}}</span>
-						<span class="value">{{coreData[2].tValue}}</span>
-					</div>
-					
-					<div class="span3 smallstat mobileHalf box" ontablet="span6" ondesktop="span3">
-						<i class="icon-money yellow"></i>
-						<span class="title">{{coreData[3].tTitle}}</span>
-						<span class="value">{{coreData[3].tValue}}</span>
-					</div>
-				</div>
-			</div>	
-
-			<div id="tree" class="box">
-				<div class="box-header">
-					<h2><i class="icon-font"></i><span class="break"></span>tree</h2>
-				</div>
-				<div class="box-content">
-					<div id="treeContainer" style="height:800px;">
-
-					</div>
+						<form class="form-horizontal">
+							<fieldset>	
+								<div class="control-group success t20">
+									<label class="control-label" for="inputSuccess">企业微信</label>
+									<div class="controls">
+											<input type="text" id="qxwxId">
+											<span class="help-inline">{{help}}</span>
+									</div>
+									<div class="controls">
+										<button type="button" class="btn btn-primary" id="btnCreateSubscriber">添加</button>
+									</div>
+								</div>
+							</fieldset>
+						</form>
 				</div>
 			</div>
 			
@@ -503,9 +483,8 @@
 		<script src="js/charts.min.js"></script>	
 		<script src="js/custom.min.js"></script>
 		<script src="js/echarts.min.js"></script>
-		<script src="js/vue.js"></script>
 		<script src="bjs/common.js"></script>
-		<script src="bjs/test.js"></script>
+		<script src="bjs/jce.js"></script>
 		<script>
 			console.log('js in page');
 		</script>

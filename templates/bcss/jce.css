@@ -1,0 +1,11 @@
+.form-horizontal .control-group{
+    margin-bottom:0;
+}
+
+#btnCreateSubscriber{
+    margin-top:20px;
+}
+
+.help-inline{
+    color:#b94a48 !important;
+}
