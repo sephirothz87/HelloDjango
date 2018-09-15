@@ -18,8 +18,8 @@ def newIndex(request):
 def getCoreData(request):
     return HttpResponse("coreData")
 
-def createSubscriber(request):
-    return HttpResponse("createSubscriber")
+# def createSubscriber(request):
+#     return HttpResponse("createSubscriber")
 
 
     

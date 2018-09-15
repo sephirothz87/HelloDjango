@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'jceApp',
 ]
 
 MIDDLEWARE = [
@@ -77,8 +78,8 @@ WSGI_APPLICATION = 'HelloDjango.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',  # 或者使用 mysql.connector.django
-        'NAME': 'test',
-        'USER': 'test',
+        'NAME': 'xigua_test',
+        'USER': 'root',
         'PASSWORD': '',
         'HOST':'localhost',
         'PORT':'3306',

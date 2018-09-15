@@ -15,20 +15,10 @@ Including another URLconf
 """
 # from django.contrib import admin
 # from django.urls import path
-from django.conf.urls import url,include
-from django.contrib import admin
+from django.conf.urls import url
 
-from . import view
-# from jceApp.views import *
+from . import api
 
 urlpatterns = [
-    # path('admin/', admin.site.urls),
-    # path('admin/hello', view.hello)
-    url(r'^$', view.home),
-    url(r'^route1$', view.route1),
-    url(r'^newIndex$', view.newIndex),
-    url(r'^getCoreData$', view.getCoreData),
-    # url(r'^createSubscriber$', jce.createSubscriber),
-    # url(r'^jceApp/homepage', homePage) ,
-    url(r'^jceApp/', include("jceApp.urls")),
+    url(r'^createSubscriber$', api.createSubscriber),
 ]

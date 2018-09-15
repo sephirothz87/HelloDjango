@@ -20,7 +20,7 @@ $('#btnCreateSubscriber').click(
         
         $.ajax({
             type: "POST",
-            url: "../createSubscriber",
+            url: "../jceApp/createSubscriber",
             data: {
                 'qxwx_login_id':qxwxId
             },

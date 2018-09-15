@@ -10,16 +10,28 @@ python manage.py runserver 0.0.0.0:8000
 
 
 //TODO
-3.接口配置及调用（暂定）
+3.接口配置及调用
 
-url.py中增加配置
+-在根目录新建App
+django-admin startapp jceApp
+
+-建立api.py文件，处理请求用
+from django.http import HttpResponse
+
+def createSubscriber(request):
+    return HttpResponse("createSubscriber")
+
+-在urls.py中增加如下配置
+from . import api
 urlpatterns = [
-    url(r'^getCoreData$', view.getCoreData),
+    url(r'^createSubscriber$', api.createSubscriber),
 ]
 
-view.py中增加接口函数
-def getCoreData(request):
-    return HttpResponse("coreData")
+-在根目录的urls.py中include该app
+url(r'^jceApp/', include("jceApp.urls")),
+
+-在页面ajax用如下url请求
+url: "../jceApp/createSubscriber",
 
 
 4.SVN路径
@@ -29,4 +41,17 @@ jce项目的SVN路径
 执行svn命令的py文件必须放在这个目录下面
 .\HelloDjango\HelloDjango\service\svn
 
+
+5.DB配置
+
+-首先复用app的路径配置
+
+-在app的根目录，修改models.py，定义字段名和表名
+-如果不自定义表名，会以app名+model作为表名，例如jceApp_model
+class Model(models.Model):
+	# id = models.AutoField()
+	qxwx_login_id = models.CharField(max_length=20)
+
+	class Meta:
+		db_table='jce_change_subscriber'
 
