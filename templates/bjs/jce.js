@@ -27,10 +27,11 @@ $('#btnCreateSubscriber').click(
             async: false,
             success: function(res){
                 console.log(res);
-                createSubscriber.help='添加成功';
+                createSubscriber.help=res.msg;
             },
             error: function(res){
-                createSubscriber.help='该用户已是订阅者';
+                console.log(res)
+                createSubscriber.help=res.message;
             }
         });
     }
