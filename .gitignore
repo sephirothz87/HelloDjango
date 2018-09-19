@@ -113,3 +113,5 @@ HelloDjango/service/svn/.svn/
 HelloDjango/service/svn/trunk/
 HelloDjango/service/svn/jce_proj/.svn/
 HelloDjango/service/svn/jce_proj/trunk/
+logs/
+HelloDjango/service/svn/jce_proj/diff/
