@@ -27,7 +27,7 @@ res = subprocess.Popen(command,stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
 
 # res.wait()
 
-print (sys.getdefaultencoding())
+# print (sys.getdefaultencoding())
 
 # print(type(res))
 # print(res.read())
