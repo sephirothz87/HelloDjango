@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<!-- start: Meta -->
+	<meta charset="utf-8" />
+	<title>SimpliQ - Flat & Responsive Bootstrap Admin Template</title>
+	<meta name="description" content="SimpliQ - Flat & Responsive Bootstrap Admin Template." />
+	<meta name="author" content="Łukasz Holeczek" />
+	<meta name="keyword" content="SimpliQ, Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina" />
+	<!-- end: Meta -->
+	
+	<!-- start: Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- end: Mobile Specific -->
+	
+	<!-- start: CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" />
+	<link href="css/bootstrap-responsive.min.css" rel="stylesheet" />
+	<link href="css/style.min.css" rel="stylesheet" />
+	<link href="css/style-responsive.min.css" rel="stylesheet" />
+	<link href="css/retina.css" rel="stylesheet" />
+	<link href="testdiff/diff2html.min.css" rel="stylesheet" />
+	<!-- end: CSS -->
+	
+
+	<!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	  	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<link id="ie-style" href="css/ie.css" rel="stylesheet">
+	<![endif]-->
+	
+	<!--[if IE 9]>
+		<link id="ie9style" href="css/ie9.css" rel="stylesheet">
+	<![endif]-->
+	
+	<!-- start: Favicon and Touch Icons -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png" />
+	<link rel="shortcut icon" href="ico/favicon.png" />
+	<!-- end: Favicon and Touch Icons -->	
+		
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+
+<body>
+				<div class="box-content">
+					<div id="diff">
+
+					</div>
+				</div>
+
+	<!-- start: JavaScript-->
+		<script src="js/jquery-1.10.2.min.js"></script>
+	<script src="js/jquery-migrate-1.2.1.min.js"></script>	
+		<script src="js/jquery-ui-1.10.3.custom.min.js"></script>	
+		<script src="js/jquery.ui.touch-punch.js"></script>	
+		<script src="js/modernizr.js"></script>	
+		<script src="js/bootstrap.min.js"></script>	
+		<script src="js/jquery.cookie.js"></script>	
+		<script src='js/fullcalendar.min.js'></script>	
+		<script src='js/jquery.dataTables.min.js'></script>
+		<script src="js/excanvas.js"></script>
+	<script src="js/jquery.flot.js"></script>
+	<script src="js/jquery.flot.pie.js"></script>
+	<script src="js/jquery.flot.stack.js"></script>
+	<script src="js/jquery.flot.resize.min.js"></script>
+	<script src="js/jquery.flot.time.js"></script>
+		
+		<script src="js/jquery.chosen.min.js"></script>	
+		<script src="js/jquery.uniform.min.js"></script>		
+		<script src="js/jquery.cleditor.min.js"></script>	
+		<script src="js/jquery.noty.js"></script>	
+		<script src="js/jquery.elfinder.min.js"></script>	
+		<script src="js/jquery.raty.min.js"></script>	
+		<script src="js/jquery.iphone.toggle.js"></script>	
+		<script src="js/jquery.uploadify-3.1.min.js"></script>	
+		<script src="js/jquery.gritter.min.js"></script>	
+		<script src="js/jquery.imagesloaded.js"></script>	
+		<script src="js/jquery.masonry.min.js"></script>	
+		<script src="js/jquery.knob.modified.js"></script>	
+		<script src="js/jquery.sparkline.min.js"></script>	
+		<script src="js/counter.min.js"></script>	
+		<script src="js/raphael.2.1.0.min.js"></script>
+	<script src="js/justgage.1.0.1.min.js"></script>	
+		<script src="js/jquery.autosize.min.js"></script>	
+		<script src="js/retina.js"></script>
+		<script src="js/jquery.placeholder.min.js"></script>
+		<script src="js/wizard.min.js"></script>
+		<script src="js/core.min.js"></script>	
+		<script src="js/charts.min.js"></script>	
+		<script src="js/custom.min.js"></script>
+		<script src="js/echarts.min.js"></script>
+		<script src="js/vue.js"></script>
+		<script src="testdiff/diff2html.min.js"></script>
+		<script src="testdiff/diff2html-ui.min.js"></script>
+		<script src="bjs/common.js"></script>
+		<script>
+			console.log('js in page');
+			diffString = `
+			Index: trunk/jce/basecache/proto_ksonginfo.jce
+===================================================================
+--- trunk/jce/basecache/proto_ksonginfo.jce	(revision 38592)
++++ trunk/jce/basecache/proto_ksonginfo.jce	(working copy)
+@@ -89,6 +89,14 @@
+ 		5 optional string strVersion;   	    //普通文件时是版本号, 合唱其实用的是md5, 发起合唱后上传作品的时候带给后台
+ 	};	
+ 
++	//ckv 存储修音文件信息, key为strCmemPitchCorrectionInfoPre+ksongmid	
++	const string strCmemPitchCorrectionInfoPre="pitchvid_";
++	struct CmemPitchCorrectionInfo
++	{
++		0 optional string strPitchCorrectionVid; //修音文件下载vid
++	};
++
++
+ 	struct UserInfo
+ 	{ 
+ 		0 optional long uid;                // user id
+Index: trunk/jce/feed/kge_feed_webapp.jce
+===================================================================
+--- trunk/jce/feed/kge_feed_webapp.jce	(revision 38592)
++++ trunk/jce/feed/kge_feed_webapp.jce	(working copy)
+@@ -476,6 +476,7 @@
+         18 optional unsigned int uConnMikeUid; // 第一个连麦人的uid，用于客户端出头像
+     };
+ 
++    const string KTV_PK_STR_KEY = "ktv_pk"; 
+     struct cell_ktv
+     {
+         0 optional unsigned int uOnlineNum;       //在线人数
+Index: trunk/jce/music_security/GlobalCommentRead.jce
+===================================================================
+--- trunk/jce/music_security/GlobalCommentRead.jce	(revision 38592)
++++ trunk/jce/music_security/GlobalCommentRead.jce	(working copy)
+@@ -142,5 +142,75 @@
+     1 optional string name;
+     2 optional string pic;
+   };
+-  
++
++  //// 评论管理后台数据结构
++  enum SimpleCommentState {
++    kSimpleCommentStateSelfSee, // 仅自己可见
++    kSimpleCommentStateNormal,  // 正常
++    kSimpleCommentStateDeleted, // 已删除 (安全审核后台删除，用户自己删除，管理员删除，UGC作者删除)
++  };
++
++  enum UinState {
++    kUinStateNormal,   // 正常uin
++    kUinStateBlacked,  // 已被拉黑
++    kUinstateUnBlacking, // 解除拉黑恢复中
++  };
++
++  enum SimpleCommentOperType {
++    kSimpleCommentOperTypeSafety, // 安全审核后台的操作
++    kSimpleCommentOperTypeSelf,   // 用户自己的操作
++    kSimpleCommentOperTypeAdmin,  // 管理员的操作
++    kSimpleCommentOperTypeUGCAuthor, // UGC作者的操作
++  };
++
++  struct SimpleComment {
++    0 optional string id;
++    1 optional int biz_type;
++    2 optional string biz_id;
++    3 optional string content;
++    4 optional long pub_time;
++    5 optional SimpleCommentState state;
++    6 optional string oper_uin;                 // 已删除状态下，该字段表示执行删除操作的uin
++    7 optional SimpleCommentOperType oper_type; // 表示删除操作归属于哪种类型
++    8 optional long oper_time;                  // 执行删除操作的时间
++  };
++
++  struct SimpleCommentList {
++    0 optional vector<SimpleComment> vec_comment;
++    1 optional int total;
++    2 optional int has_more;
++  };
++
++  struct GetCommentsOfUserReq {
++    0 require string uin;
++    1 require string target_uin;
++    2 optional string last_query_id = "";  // 查询个人主页数据时，传递该参数用于翻页
++    3 optional int count = 10;
++    4 optional int type = 1;  // 1: 获取个人主页的评论数据；2：获取已删除的个人评论数据
++  };
++
++  struct GetCommentsOfUserRsp {
++    0 optional UinState uin_state;
++    1 optional SimpleCommentList comment_list;
++  };
++    
++  /*
++  * 获取评论数量，支持批量
++  */  
++  /*
++  interface GlobalCommentRead
++  {
++    
++    int GetCommentCount(GetCommentCountReq req, out GetCommentCountRsp rsp);
++    int GetPersonalComment(GetPersonalCommentReq req, out GetPersonalCommentRsp rsp);
++    int GetComment(GetCommentReq req, out GetCommentRsp rsp);
++    int GetConfig(GetConfigReq req, out GetConfigRsp rsp);
++    int GetSummary(GetSummaryReq req, out GetSummaryRsp rsp);
++    int GetSummarySelf(GetSummarySelfReq req, out GetSummarySelfRsp rsp);
++    int GetBizInfo(GetBizInfoReq req, out GetBizInfoRsp rsp);
++
++    // 评论管理后台拉取用户评论数据的接口，支持批量
++    int GetCommentsOfUser(GetCommentsOfUserReq req, out GetCommentsOfUserRsp rsp);
++  };
++  */
+ };
+Index: trunk/jce/music_security/GlobalCommentWrite.jce
+===================================================================
+--- trunk/jce/music_security/GlobalCommentWrite.jce	(revision 38592)
++++ trunk/jce/music_security/GlobalCommentWrite.jce	(working copy)
+@@ -43,9 +43,10 @@
+     struct UpdateHotCommentReq
+     {
+       1 require string comment_id; // 管理员操作的评论ID
+-      2 require int type; // 1. 选为热评 2 取消热评 3 点赞 4 取消点赞 5 置顶 6 删除 7 设置为仅自己可见 8 设置评论ID和手机号绑定
++      2 require int type; // 1. 选为热评 2 取消热评 3 点赞 4 取消点赞 5 置顶 6 删除 7 设置为仅自己可见 8 设置评论ID和手机号绑定 9 投稿
+       3 require string uin; // 操作人
+       4 optional string cellphone;
++      5 optional string identifier; // imei, idfa
+     };
+     struct UpdateHotCommentRsp
+     {
+@@ -75,4 +76,42 @@
+       0 optional int subcode = 0;
+       1 optional string msg = "";
+     };
++
++    // 评论管理后台恢复和解除黑名单的接口
++
++    struct ResumeDeletedCommentReq {
++      0 require string oper_uin;
++      1 require string comment_id;
++      2 optional int state = 1; // 恢复后评论的状态
++    };
++
++    struct ResumeDeletedCommentRsp {
++      0 optional string msg;  // 删除后的提示信息
++    };
++
++    struct UnBlackUinReq {
++      0 require string oper_uin;  // 操作uin
++      1 require string target_uin; // 被解封的uin
++    };
++
++    struct UnBlackUinRsp {
++      0 optional string msg;  // 删除后的提示信息
++    };
++
++    /*
++    interface GlobalCommentWrite
++    {
++        int UpdateHotComment(UpdateHotCommentReq req, out UpdateHotCommentRsp rsp);
++        int ManageUser(ManageUserReq req, out ManageUserRsp rsp);
++        int AddComment(AddCommentReq req, out AddCommentRsp rsp);
++        int DelCommentForSafe(DelCommentReq req, out DelCommentRsp rsp);
++        int DelComment(DelCommentReq req, out DelCommentRsp rsp);
++
++        // 恢复被删除的某条评论
++        int ResumeDeletedComment(ResumeDeletedCommentReq req, out ResumeDeletedCommentRsp rsp);
++
++        // 将指定的uin移出黑名单，并恢复他们的评论数据（恢复评论的过程由定时脚本执行，有一定的时延）
++        int UnBlackUin(UnBlackUinReq req, out UnBlackUinRsp rsp);
++    };
++    */
+ };
+Index: trunk/jce/short_video/proto_short_video_recommend.jce
+===================================================================
+--- trunk/jce/short_video/proto_short_video_recommend.jce	(revision 38592)
++++ trunk/jce/short_video/proto_short_video_recommend.jce	(working copy)
+@@ -131,6 +131,7 @@
+         2 optional string strQua;
+         3 optional proto_short_video_webapp::ListPassback passback;   // 后台透传数据 
+         4 optional string ugcid; //当前点击的ugcid
++		5 optional int iReqSeq;  //请求序列号，目前用户控制插入广告频率(每天清零，每发送一个请求+1)
+     };
+ 
+     struct GetRecommendSvrRsp
+Index: trunk/jce/short_video/proto_short_video_webapp.jce
+===================================================================
+--- trunk/jce/short_video/proto_short_video_webapp.jce	(revision 38592)
++++ trunk/jce/short_video/proto_short_video_webapp.jce	(working copy)
+@@ -486,7 +486,7 @@
+         3 optional RecommendItem recItem;             // 推荐相关字段
+         4 optional ListPassback passback;             // 客户端上报透传字段, 后台专用
+ 		
+-		5 optional int  iIsAdVedio;                   // 是否是视频广告
++		5 optional int  iIsAdVedio;                   // 是否要展示视频广告标签
+ 		6 optional map<string,string> mapExtend;      // 广告上报所需数据
+ 		7 optional LinkAd objLinkAd;                  // 外链广告
+     };
+Index: trunk/jce_national/new_discovery/new_discovery.jce
+===================================================================
+--- trunk/jce_national/new_discovery/new_discovery.jce	(revision 38592)
++++ trunk/jce_national/new_discovery/new_discovery.jce	(working copy)
+@@ -19,6 +19,21 @@
+         1 optional string strJumpUrl;
+     };
+ 
++    ////////////////////////////
++    //注意，这个枚举表示推荐理由，用于数据上报，（1~9后台，>=10个性化推荐）
++    //后续有增加新的理由需要知会到yanbinwu和报表同学进行补充
++    ////////////////////////////
++    enum emRecReason
++    {
++        REC_REASON_NEW              = 1, //新作品推荐（中心化）
++        REC_REASON_HOT              = 2, //热门作品推荐（中心化）
++        REC_REASON_OPERATION        = 3, //运营推荐（中心化）
++        
++        //以下>=10为个性化推荐理由
++        REC_REASON_ONLINE           = 10, //实时推荐
++        REC_REASON_OFFLINE          = 11, //离线计算推荐
++    };
++    
+     struct UgcInfo
+     {
+         0 optional int iUgcType;            // 0: 普通作品   1：合唱   2：MV合唱   3: 清唱   4: 片段
+@@ -30,6 +45,7 @@
+         6 optional proto_mv_rec::UserDetailInfo  user_info; // 
+         7 optional proto_mv_rec::UserDetailInfo  half_user_info; // 对于合唱mv 第二个人的信息
+         8 optional int iReason;             //推荐理由ID(用于数据上报)：见emRecReason
++        9 optional int iRecPos;             //离线推荐的位置（从1开始）
+     };
+ 
+     struct GetDiscoveryInfoReq
+			`
+			var diff2htmlUi = new Diff2HtmlUI({diff: diffString});
+			// diff2htmlUi.draw('#diff', {inputFormat: 'diff', showFiles: true, matching: 'lines'});
+			// diff2htmlUi.draw('#diff', {inputFormat: 'diff', showFiles: true, matching: 'side-by-side'});
+			diff2htmlUi.draw('#diff', {inputFormat: 'diff', showFiles: false, matching: 'lines', outputFormat:'side-by-side'});
+
+			$(".icon-font").click(function(){
+				console.log($('#diff'))
+				// console.log($('#diff').html())
+				console.log($('#diff').context.documentElement.innerHTML)
+				
+			});
+		</script>
+	<!-- end: JavaScript-->
+	
+
+</body>
+</html>
