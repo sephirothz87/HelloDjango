@@ -33,16 +33,12 @@ def getModifyFileList(v1,v2):
 
 		# print(lineStr)
 		if lineStr.startswith(('M','D')) and fileName.endswith('.jce'):
-			# print('modify or delete')
 			modifyFileList.append(fileName)
-		# else:
-			# print('add or other')
 
 		line = resDiffSummrize.stdout.readline()
 	return modifyFileList
 
 def exportDiffResult(fileList,v1,v2,resFile):
-	# timeTag = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
 	diffOutFile = open(resFile, 'w')
 
 	# 循环所有结果列表
@@ -62,7 +58,6 @@ def exportDiffResult(fileList,v1,v2,resFile):
 			# print(line)
 			#测试过程中发现有的文件是GB2312,会导致报错
 			lineStr = bytes.decode(line,errors='ignore').strip()
-			# lineStr = line.decode('utf-8').strip()
 			if lineStr.startswith('-') and not lineStr.startswith('---'):
 				isModify = True
 				break
@@ -73,24 +68,17 @@ def exportDiffResult(fileList,v1,v2,resFile):
 			line = resDiff.stdout.readline()
 			while line:
 				# print(line)
-				# lineStr = bytes.decode(line).strip()
-				# print(lineStr)
-				# diffOutFile.write(line)
 
 				# 解决多种编码的问题
 				try:
-					# print('utf-8')
 					diffOutFile.write(line.decode('uft-8').rstrip())
 				except:
 					try:
-						# print('ascii')
 						diffOutFile.write(line.decode('ascii').rstrip())
 					except:
 						try:
-							# print('gb2312')
 							diffOutFile.write(line.decode('gb2312').rstrip())
 						except:
-							# print('default')
 							diffOutFile.write(line.decode().rstrip())
 				diffOutFile.write('\n')
 				
@@ -157,9 +145,6 @@ else:
 	if len(incModifyFileList) != 0:
 		timeTag = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
 		exportDiffResult(incModifyFileList,vLastScan,vLatest,('diff/'+timeTag+'.diff'))
-
-# print(modifyFileList)
-
 
 
 
