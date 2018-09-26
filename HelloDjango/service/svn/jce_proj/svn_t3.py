@@ -14,8 +14,8 @@ vBase = '38111'
 vLatest = ''
 #上次扫描的版本号
 #假设是从一个更旧的版本扫描
-vLastScan = '38000'
 # vLastScan = '38000'
+vLastScan = '38729'#9/26日日报
 
 cmdUpdate = 'svn update'
 cmdDiff = 'svn diff -r'
@@ -23,7 +23,7 @@ cmdDiff = 'svn diff -r'
 reReversion = r'\d+'
 
 def getModifyFileList(v1,v2):
-	resDiffSummrize = subprocess.Popen(cmdDiff+vBase+':'+vLatest+' --summarize',stdout=subprocess.PIPE, stderr=subprocess.STDOUT,bufsize=1)
+	resDiffSummrize = subprocess.Popen(cmdDiff+v1+':'+v2+' --summarize',stdout=subprocess.PIPE, stderr=subprocess.STDOUT,bufsize=1)
 	line = resDiffSummrize.stdout.readline()
 	modifyFileList = []
 
@@ -43,7 +43,7 @@ def getModifyFileList(v1,v2):
 
 def exportDiffResult(fileList,v1,v2,resFile):
 	# timeTag = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
-	diffOutFile = open(resFile, 'wb')
+	diffOutFile = open(resFile, 'w')
 
 	# 循环所有结果列表
 	for file in fileList:
@@ -62,6 +62,7 @@ def exportDiffResult(fileList,v1,v2,resFile):
 			# print(line)
 			#测试过程中发现有的文件是GB2312,会导致报错
 			lineStr = bytes.decode(line,errors='ignore').strip()
+			# lineStr = line.decode('utf-8').strip()
 			if lineStr.startswith('-') and not lineStr.startswith('---'):
 				isModify = True
 				break
@@ -74,7 +75,24 @@ def exportDiffResult(fileList,v1,v2,resFile):
 				# print(line)
 				# lineStr = bytes.decode(line).strip()
 				# print(lineStr)
-				diffOutFile.write(line)
+				# diffOutFile.write(line)
+
+				# 解决多种编码的问题
+				try:
+					# print('utf-8')
+					diffOutFile.write(line.decode('uft-8').rstrip())
+				except:
+					try:
+						# print('ascii')
+						diffOutFile.write(line.decode('ascii').rstrip())
+					except:
+						try:
+							# print('gb2312')
+							diffOutFile.write(line.decode('gb2312').rstrip())
+						except:
+							# print('default')
+							diffOutFile.write(line.decode().rstrip())
+				diffOutFile.write('\n')
 				
 				line = resDiff.stdout.readline()
 		#限制次数的测试
@@ -115,9 +133,32 @@ if int(vLastScan) < int(vBase):
 
 	exportDiffResult(modifyFileList,vBase,vLatest,('diff/'+timeTag+'.diff'))
 #没有基线变更
-# else:
+else:
+	print('modifyFileList')
+	modifyFileList = getModifyFileList(vLastScan,vLatest)
+	print(len(modifyFileList))
 
-print(modifyFileList)
+	print('modifyFileListToBase')
+	modifyFileListToBase = getModifyFileList(vBase,vLatest)
+	print(len(modifyFileListToBase))
+
+	#增量变更列表
+	incModifyFileList = []
+
+	for file in modifyFileList:
+		if file in modifyFileListToBase:
+			incModifyFileList.append(file)
+		else:
+			print('not modify to base')
+
+	print(len(incModifyFileList))
+	print(incModifyFileList)
+	
+	if len(incModifyFileList) != 0:
+		timeTag = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
+		exportDiffResult(incModifyFileList,vLastScan,vLatest,('diff/'+timeTag+'.diff'))
+
+# print(modifyFileList)
 
 
 
